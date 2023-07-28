@@ -1,0 +1,13 @@
+[Main]
+
+[Info]
+name = "libfio"
+version = "0.0.0"
+description = "A simple C file input/output library"
+tags = ["C","fio"]
+authors = ["LabRicecat"]
+license = "MIT"
+
+[Download]
+files = ["fbase.h","fchange.h","fdef.h","ferror.h","fi.h","fo.h","fio.h","fnew.h"]
+
